@@ -1,0 +1,15 @@
+.cardd{
+    height: 35rem;
+ 
+}
+.card-image{
+    height: 20rem;
+    background: red;
+}
+.card-image div{
+    height: 5rem;
+    width: 7rem;
+    background: rgb(204, 204, 204);
+    top: 10%;
+    left: 10%;
+}

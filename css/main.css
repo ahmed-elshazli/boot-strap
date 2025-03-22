@@ -1,0 +1,10 @@
+@import url('./banner.css');
+@import url('./section_title.css');
+@import url('./gray_section.css');
+@import url('./banner_ads.css');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
